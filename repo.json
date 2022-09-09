@@ -1,8 +1,8 @@
 {
   "meta": {
-    "name": "Cumsock",
-    "description": "The official theme repo for Cumcord",
-    "author": "CumcordThemes Team"
+    "name": "Whitestain",
+    "description": "The extended theme repo for Cumcord",
+    "author": "cloudwithax"
   },
   "themes" : [
     "https://raw.githubusercontent.com/yellowsink/Diskai/dist/diskai.theme.css",
@@ -10,6 +10,7 @@
     "https://bulldog3321.github.io/Bulldogs-Theme/main.css",
     "https://raw.githubusercontent.com/PhoenixAceVFX/Phoenix-Vizan/main/main.css",
     "https://crearts-community.github.io/CreArts-Discord/clients/crearts.theme.css",
-    "https://faynealdan.github.io/CompactSettings/dist/CompactSettings.theme.css"
+    "https://faynealdan.github.io/CompactSettings/dist/CompactSettings.theme.css",
+    "https://raw.githubusercontent.com/spinfish/midnightcord/master/source/compiled/midnightcord.compiled.css"
   ]
 }
